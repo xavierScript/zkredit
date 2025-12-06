@@ -359,4 +359,4 @@ Visit `http://localhost:3000`
 
 ---
 
-**Built with ❤️ by the zkredit team**
+**Built with ❤️ by the zKredit team**
