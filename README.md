@@ -1,6 +1,6 @@
 # 🔐 Private Lending & Borrowing Protocol (Powered by Arcium)
 
-A confidential lending protocol built on Solana using Arcium's Multi-Party Computation (MPC) network. This protocol ensures that sensitive financial data—including collateral amounts, borrow positions, and health factors—remain private while still enforcing protocol solvency through encrypted computations.
+zKredit — A confidential lending protocol built on Solana using Arcium's Multi-Party Computation (MPC) network. This protocol ensures that sensitive financial data—including collateral amounts, borrow positions, and health factors—remain private while still enforcing protocol solvency through encrypted computations.
 
 [![Solana](https://img.shields.io/badge/Solana-Devnet-purple)](https://solana.com)
 [![Arcium](https://img.shields.io/badge/Arcium-v0.4.0-blue)](https://arcium.com)
@@ -359,4 +359,4 @@ Visit `http://localhost:3000`
 
 ---
 
-**Built with ❤️ by xavierScript and ovie-best**
+**Built with ❤️ by the zkredit team**
