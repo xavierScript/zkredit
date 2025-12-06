@@ -359,5 +359,4 @@ Visit `http://localhost:3000`
 
 ---
 
-**Built with ❤️ for the Arcium Bounty Program**  
-_Confidential Finance on Solana_
+**Built with ❤️ by xavierScript and ovie-best**
